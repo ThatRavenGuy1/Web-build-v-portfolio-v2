@@ -54,3 +54,15 @@ a {
   text-decoration: none;
   color: #000000;
 }
+
+.s-webapp{
+  text-align: wrap;
+  font-size: 2rem;
+  border: #000000;
+  border-style: solid;
+}
+.s-webapp{
+  border: #000000;
+  border-style: solid;
+  
+}

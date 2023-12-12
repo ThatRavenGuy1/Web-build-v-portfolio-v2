@@ -71,3 +71,10 @@ a {
   width: auto;
   border: 3;
 }
+
+.s-othersamples{
+  text-align: wrap;
+  font-size: 2rem;
+  border: #000000;
+  border-style: solid;
+}
